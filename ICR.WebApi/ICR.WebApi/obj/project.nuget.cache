@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0PL7wAKRnEw=",
+  "success": true,
+  "projectFilePath": "C:\\Importador C&R\\Repositorio\\ICR.BackEnd\\ICR.WebApi\\ICR.WebApi\\ICR.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lainco\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\Lainco\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
