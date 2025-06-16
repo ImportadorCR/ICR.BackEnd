@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICR.WebApi", "ICR.WebApi\ICR.WebApi.csproj", "{415A0270-70FE-42C2-8398-1949F4D492B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICR.Model", "ICR.Model\ICR.Model.csproj", "{F67DB502-BBD4-4D9F-BF62-632CAD3AFD0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{415A0270-70FE-42C2-8398-1949F4D492B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{415A0270-70FE-42C2-8398-1949F4D492B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{415A0270-70FE-42C2-8398-1949F4D492B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67DB502-BBD4-4D9F-BF62-632CAD3AFD0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67DB502-BBD4-4D9F-BF62-632CAD3AFD0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67DB502-BBD4-4D9F-BF62-632CAD3AFD0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67DB502-BBD4-4D9F-BF62-632CAD3AFD0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,6 +8,12 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.0" />
+    <PackageReference Include="NSwag.AspNetCore" Version="14.4.0" />
+    <PackageReference Include="WhatsappBusiness.CloudApi" Version="1.0.69" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ICR.Model\ICR.Model.csproj" />
   </ItemGroup>
 
 </Project>
